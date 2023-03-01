@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning mechatronics engineering at Ho Chi Minh City University of Technology and Education (HCMUTE)
+- 📫 How to reach me: Hoang1207chip@gmail.com
+- ⚡ Fun fact: I am still try to find my mission of my life
 <!--
 **NguyenHoang127/NguyenHoang127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
